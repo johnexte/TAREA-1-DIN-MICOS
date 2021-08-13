@@ -1,3 +1,4 @@
+#CREADO POR JOHN ESTEBAN PULIDO SALINAS: J.PULIDOS@UNIANDES.EDU.CO
 import matplotlib.pyplot as plt
 import pandas as pd
 
